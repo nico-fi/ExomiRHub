@@ -655,7 +655,7 @@ hsa-miR-3934-5p,26125
 hsa-miR-3940-5p,25432
 hsa-miR-3944-3p,25956
 hsa-miR-3944-5p,25484
-hsa-miR-4433-5p,600
+hsa-miR-4433-5p,592
 hsa-miR-4435,25229
 hsa-miR-4440,25607
 hsa-miR-4449,25493
@@ -1499,11 +1499,11 @@ hsa-miR-3666,25571
 hsa-miR-3667-3p,25927
 hsa-miR-3667-5p,25996
 hsa-miR-3668,25617
-hsa-miR-3669,488
+hsa-miR-3669,480
 hsa-miR-3670,25319
 hsa-miR-3671,25538
 hsa-miR-3672,25522
-hsa-miR-3673,498
+hsa-miR-3673,490
 hsa-miR-3674,25534
 hsa-miR-3675-3p,25930
 hsa-miR-3675-5p,26033
@@ -8790,6 +8790,9 @@ hsa-miR-560,4
 hsa-miR-801,4
 hsa-miR-320,4
 hsa-miR-450,4
+hsa-miR-4433-5p_v20.0,8
+hsa-miR-3673_v20.0,8
+hsa-miR-3669_v20.0,8
 hsa-miR-548ap-5p|hsa-miR-548j,3
 hsa-miR-365a-5p|hsa-miR-365b-5p,3
 hsa-miR-500a-5p|hsa-miR-500b,3
