@@ -161,5 +161,6 @@ cython_debug/
 
 .DS_Store
 data/EXP.csv
-data/torch/graph.pt
+artifacts/graph.pt
+artifacts/bagging.joblib
 Info.numbers
