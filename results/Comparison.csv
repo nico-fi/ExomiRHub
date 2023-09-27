@@ -1,0 +1,62 @@
+,GAT & Bagging miRNAs,GAT Validated miRNAs,Bagging Validated miRNAs
+Acquired immune deficiency syndrome,,"hsa-mir-296, hsa-mir-181c, hsa-mir-28",
+Benign bone and soft tissue disease,hsa-miR-6750-3p,hsa-mir-877,
+Benign breast disease,,,
+Benign ovarian disease,,,
+Benign pancreatic or biliary tract diseases,,,
+Benign prostate disease,hsa-miR-4433a-5p,,
+Benign thyroid nodule,,,
+Biliary tract cancer,,,
+Bladder cancer,hsa-miR-3162-3p,hsa-mir-877,"hsa-mir-195, hsa-mir-221, hsa-mir-16"
+Borderline ovarian tumor,,"hsa-mir-148b, hsa-mir-195, hsa-mir-877, hsa-mir-222, hsa-mir-425, hsa-mir-16, hsa-mir-202, hsa-mir-339",
+Breast cancer,hsa-miR-199b-3p,"hsa-mir-6826, hsa-mir-199b, hsa-mir-23b, hsa-mir-16, hsa-mir-151a, hsa-mir-19b, hsa-mir-199a","hsa-mir-5100, hsa-mir-1228, hsa-mir-199b, hsa-mir-614, hsa-mir-18a"
+Cholelithiasis,,,
+Chronic hepatitis C,,,
+Chronic pancreatitis,,,
+Colon cancer,,"hsa-mir-195, hsa-mir-197, hsa-mir-204, hsa-mir-149, hsa-mir-486, hsa-mir-339","hsa-mir-125a, hsa-mir-1249"
+Colon carcinoma,,"hsa-mir-671, hsa-mir-150, hsa-let-7g, hsa-mir-518a","hsa-mir-32, hsa-mir-1228"
+Colorectal cancer,,"hsa-let-7b, hsa-let-7g, hsa-mir-222, hsa-mir-6868, hsa-mir-935, hsa-let-7c","hsa-mir-1228, hsa-mir-32, hsa-mir-190b, hsa-mir-7, hsa-mir-4728, hsa-mir-192, hsa-mir-137, hsa-mir-1343, hsa-mir-196a"
+Colorectal carcinoma,,"hsa-mir-125b-1, hsa-mir-627, hsa-mir-1288, hsa-mir-519b, hsa-mir-199b, hsa-mir-135b, hsa-mir-516b, hsa-mir-19b, hsa-mir-520e",
+Esophageal cancer,,"hsa-mir-19b, hsa-mir-204",
+Esophageal squamous cell carcinoma,,"hsa-mir-1248, hsa-mir-195, hsa-mir-6884, hsa-mir-877, hsa-mir-154, hsa-mir-222","hsa-mir-1246, hsa-mir-199a"
+Fulminant myocarditis,,,
+Gestational diabetes mellitus,,"hsa-mir-296, hsa-mir-195, hsa-mir-28",
+Glioblastoma,,"hsa-mir-1248, hsa-mir-3180, hsa-mir-196b, hsa-mir-20b, hsa-mir-16, hsa-mir-28, hsa-mir-424","hsa-let-7g, hsa-mir-638, hsa-mir-106b, hsa-mir-204, hsa-let-7i, hsa-mir-6071"
+Glioma,hsa-miR-3162-3p,"hsa-mir-382, hsa-mir-197, hsa-mir-222, hsa-mir-134, hsa-mir-204, hsa-mir-149","hsa-mir-125a, hsa-mir-203a, hsa-mir-17, hsa-mir-6088, hsa-mir-1343"
+Head and neck cancer,,"hsa-mir-125b-1, hsa-mir-199b",
+Hepatocellular carcinoma,,"hsa-mir-7107, hsa-mir-941, hsa-mir-23b, hsa-mir-365b, hsa-mir-149, hsa-mir-486, hsa-mir-199a","hsa-mir-371a, hsa-mir-221, hsa-mir-1228, hsa-mir-495, hsa-mir-17, hsa-mir-6836, hsa-mir-192, hsa-mir-1343"
+Intermediate bone and soft tissue tumor,,,
+Intrahepatic cholangiocarcinoma,,hsa-mir-98,
+Liver cancer,,"hsa-mir-222, hsa-mir-148b, hsa-mir-451a",hsa-mir-1228
+Liver cirrhosis,,hsa-mir-411,
+Lung adenocarcinoma,,"hsa-mir-125b-2, hsa-mir-1184, hsa-mir-150, hsa-mir-192, hsa-mir-339",
+Lung cancer,,"hsa-mir-193b, hsa-mir-151a, hsa-mir-1227","hsa-mir-5100, hsa-mir-221, hsa-mir-16, hsa-mir-192, hsa-mir-137"
+Lung cancer (post-operation),,"hsa-mir-561, hsa-mir-195, hsa-mir-197, hsa-mir-204, hsa-mir-425, hsa-mir-149",hsa-mir-5100
+Lung carcinoma,,"hsa-mir-877, hsa-mir-106b, hsa-mir-451a, hsa-mir-1227, hsa-mir-151a, hsa-mir-199a",
+Malignant bone and soft tissue tumor,,,
+Meningioma,,hsa-mir-222,
+Metastatic brain tumors,,,
+Multiple myeloma,hsa-miR-548x-3p,"hsa-mir-192, hsa-mir-579, hsa-mir-486, hsa-mir-6500",
+Nasopharyngeal carcinoma,,"hsa-mir-296, hsa-mir-195, hsa-mir-135a, hsa-mir-150, hsa-mir-486, hsa-mir-339",
+Non-alcoholic steatohepatitis,,,
+Non-small cell lung cancer,,"hsa-mir-296, hsa-mir-1248, hsa-mir-195, hsa-mir-148b, hsa-mir-222, hsa-mir-106b, hsa-mir-1911, hsa-mir-451a, hsa-mir-202, hsa-mir-1915","hsa-mir-1260b, hsa-let-7e"
+Obesity-related disease,,"hsa-mir-193b, hsa-mir-195, hsa-mir-576, hsa-mir-23b",hsa-mir-6803
+Oral squamous cell cancer,,"hsa-mir-1248, hsa-mir-195, hsa-mir-197, hsa-mir-204, hsa-mir-149, hsa-mir-2392, hsa-mir-142",hsa-mir-5100
+Ovarian cancer,,"hsa-mir-195, hsa-mir-23b, hsa-mir-770, hsa-mir-4783, hsa-mir-339","hsa-mir-5100, hsa-mir-187, hsa-mir-1228, hsa-mir-221, hsa-mir-1343"
+Pancreatic cancer,,hsa-mir-570,"hsa-mir-1246, hsa-mir-5100, hsa-mir-125a, hsa-mir-1228, hsa-mir-146a, hsa-mir-29c, hsa-mir-1343"
+Perioperative myocardial injury,,,
+Polycystic ovary syndrome,hsa-miR-548ae-5p,"hsa-mir-296, hsa-mir-18b, hsa-mir-424, hsa-mir-451a, hsa-mir-16, hsa-mir-28, hsa-mir-192, hsa-mir-339",hsa-mir-142
+Pre-term birth,,"hsa-mir-1248, hsa-mir-424",hsa-mir-199b
+Preeclampsia,,"hsa-mir-1248, hsa-let-7g, hsa-mir-199b",
+Primary central nervous system lymphomas,,,
+Prostate cancer,"hsa-miR-212-5p, hsa-miR-16-2-3p, hsa-miR-197-5p","hsa-mir-296, hsa-mir-191, hsa-mir-9, hsa-mir-197, hsa-mir-222, hsa-mir-204, hsa-mir-199b, hsa-mir-19a, hsa-mir-1227, hsa-mir-149, hsa-mir-133a, hsa-mir-212","hsa-mir-132, hsa-mir-152, hsa-mir-197, hsa-mir-124, hsa-mir-221, hsa-mir-1228, hsa-mir-25, hsa-mir-149, hsa-mir-186, hsa-let-7c, hsa-mir-212"
+Retinoblastoma,"hsa-miR-548x-3p, hsa-miR-570-5p, hsa-miR-3689c",,
+Sarcoma,,,
+Small cell lung carcinoma,,"hsa-mir-93, hsa-mir-195, hsa-mir-20b",
+Squamous cell carcinoma,,,
+Stomach cancer,,"hsa-mir-125b-1, hsa-mir-197, hsa-mir-134, hsa-mir-548g, hsa-mir-204, hsa-mir-149, hsa-mir-339","hsa-mir-5100, hsa-mir-342, hsa-mir-4646, hsa-mir-9, hsa-mir-1228, hsa-mir-192, hsa-mir-6845, hsa-mir-1343"
+Thyroid cancer,,"hsa-mir-149, hsa-mir-204, hsa-mir-1183, hsa-mir-150",
+Type 1 autoimmune pancreatitis,,,
+Ventricular septal defect in the fetus,,,
+Wilms tumor (before chemotherapy),,hsa-mir-424,
+Wilms tumor (post chemotherapy),,hsa-mir-424,
